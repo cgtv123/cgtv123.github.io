@@ -1,20 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jason&#39;s blog</title>
+  <title>兴球</title>
   
-  <subtitle>认识自己</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cgtv123.github.io/"/>
-  <updated>2020-06-09T08:10:25.612Z</updated>
+  <updated>2020-08-09T12:53:55.794Z</updated>
   <id>https://cgtv123.github.io/</id>
   
   <author>
-    <name>cgtv123</name>
+    <name>Jason</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>庸人之为责任</title>
+    <link href="https://cgtv123.github.io/20Aug.html"/>
+    <id>https://cgtv123.github.io/20Aug.html</id>
+    <published>2020-08-09T06:54:01.000Z</published>
+    <updated>2020-08-09T12:53:55.794Z</updated>
+    
+    <content type="html"><![CDATA[<p>  解决了毕业问题，我进到未曾来过的待业期。<a id="more"></a>  两个月来，我近乎逃避地疯狂看书。沉浸在思辨和幻想的世界里。我可能从未如此快乐，也前所未有害怕。亲朋好友陆续地知道了我的决定，明里暗里地透露出怀疑。悬而无果的现在，我疲于假想的拷问，不厌其烦地用理性和情感回应，以抚平不安。时间久了，像和老朋友打牌。彼此牌路早已滚瓜烂熟，但我依然不知道每一次牌局会去向哪里。一个大人的劝诫是一段苦痛，加起来重如千斤。我这样初出茅庐的小子，又如此笃信经验，翻越这堵高墙难如登天。好在，我拼了命挤出这丁点勇气，还能在每晚入睡。</p><p>  我的创作欲望快满溢出来，或下一刻就肆意泛滥。很长一段时间，我拿动画和游戏填补看故事的自然欲望。而事到如今，我几乎寻找不到更棒的了。我实在不愿承认二次元作品的形式注定了与小说电影相比下的肤浅。它们深深地影响了我。我只是本着自然的追求，想看到更多精致而真实的故事，仅此而已。我敬畏于巨人们的严谨与想象的天马行空，兴奋于诡计的多样与揪心的真情实感。这些作品又像一杆杆枪，面无表情地对准了我尚在襁褓的幻想。首先，怎样创作出摆脱这些原型的作品？——如此一看炮制论文可简单多了。</p><p>  快两个月了，我提不起笔。我耻于公开之前的文章，又懒得全部回炉重造。这应该是成长的体现，是件好事。但随着阅读增加，我越发缺少自信，写出感动自己作品的自信。应试作文的诅咒仍紧箍咒般套在我的笔头， 不时使我写出恶心的玩意。我是彻头彻尾的庸人，又敏感，就变成读着爽写着痛苦。我算切实体会到此行必经的惨淡经营。或许都只是心急，我太怕入职后的生活失去时间与活力。<br> 我终究动了笔，与考虑转职教师的那刻如出一辙，也不知道为什么总要主动承受这种自虐的辛苦。不论天命感召还是任性，使命感悄无声息地点燃了。</p><p>  庸人也有他该去的地方吧。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;  解决了毕业问题，我进到未曾来过的待业期。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://cgtv123.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="自我" scheme="https://cgtv123.github.io/tags/%E8%87%AA%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>答记者问</title>
+    <link href="https://cgtv123.github.io/careerchange.html"/>
+    <id>https://cgtv123.github.io/careerchange.html</id>
+    <published>2020-06-22T13:22:08.000Z</published>
+    <updated>2020-08-09T12:52:07.596Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="那么，我的常用id是？" /><label>那么，我的常用id是？</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="a006aec5e2e8a16134118fec6d253998b2d6898c789c5eab07eedcd6645bab1c">293b1a67853372878a52583ccee7fed312fe73fa00247079ca5ee0340d3ce70ce4cc2ee940d957c5d596a4b3c62623fc53b28cb89d3e8aad1ed078731ec1b66108259d9c3c4853b67b341269001d3dfb64a24a9b07404c8307aed11560ce2ea8321c814da413bb0e03d4c0fdc28724d3c09754f2ebc7976a7fb5efc3ad487d02cc1eb64feb7ca7346dd335f9171c768ea49b2ec87442b4fad711892c1532e57717de2465976bfe2d4eabf27b6cf5b350503e6e8ec99546f18bf0869fee392aa5ea770ecf14d6f013549a29fee049e59cce28ab0ad565fe782a88173b4803f0edb8cad11197fd38088d2b8bc51d31bd3f47484cfb93c043e9382098b92ab2f10834b3b212066e89955b65c848e6782283325992098c025ac804ff818e20baf0c7f8277e1eea258c373841c065e4c4bd8165bd41b269822df0ea878ff60473392884ad2f33067041b09e091d0cedd689efa6601ee7374a160aa2baadc56de748d822cda941838ff84b2c42a6838232b1d4f0fc2b98e4db60807aed3799e8ce2f28cda1dd80959054ebb4e3d3f07f8b291a8f603bdc2d62d5344a3caca9c5037fef73add56c40d9c4274035ada2327565844fe211fa98b4cba62f488f182a3dda64446a8c243a9fe086cbf1632a3208559dcc82f36bb6ca7adc8704b14917853970504e01f3e0cd1d3cfabe76bbc422369df614c5c0ff29eee1d2b3ec793d74c750b9ad34721817ae28aaa1c209ba0046a6cb559b24cf2ae6ae4ada3d8b40bf5b93c9e0e65962ca1f859d932abf61872c00ec16f8b3416107b5bcf80988af636d9bc8f952da03a7b33aae399bb48a843e300a356b076ff6fc9fc8c93439a7bea2bf51a84e2aa79f5a48c870f1afb7a2a4c86d87a9da5c9485460f877117f32c10585b67c86c433cf4fc53c9e76e4261bcdaf9ce1cf0281e42c3a2b8918512b57dbcb4399631a3465017aa7ec08213cfcbf399819671a0df5e7dece1f7882d80738e3d5455de24618b9e268b17d743af5b699e9cee158fc81e2e7a3295c9266cd9aa4b3ef85152ad295dcf75eb725f31292d8b03080b47a844a15fb3d424ab20ed48c98a0ccd9293aae0adc587c642f917a15811462366f87168cf8368437313372b831de141b4a848b9ee27b903502d506427b1549aba78fbb40470b62050b3afe2fffb6a9f1e444ab9cc6b942d1fecfb3ea1c7dd9de9c927e977e3af33004acbc77e34a01ef31a4194e116a09fd4d77cea345b23cb1c937bb29a6ca4f5c393f1e7f6f5cb262e2626136928c6f6bdbc990d29165d1f91a547bfe6b51adcbae01951761087e3e458ce8549ca306fa902963eb35d055a69a24576d6489c368b0723c778657ee279e00bffd805e67062ca646dcc231481bb758547c01a8ef0a45717725e66a064c0a3a6e782f9dfabfa253805c39d443e22956afedb7626dbe63fd0dc19ea423e0f06edbd203f24a77e3c0b204349d24381288e4c3bf9954a0aa03db0de6ec633cc3b32c41f2e407edbb66bb23cd344231a9e436927ca4a0bed890f23e740795bbf2631c3077158f739b9bddfd454914649658529276b786e60272598d2a5583c8d92569413143f35bd08f87ca424d8370c278ada38b3883bd2d6c741d1657f79cf9b979e8023595222b5256b4a828f1526a5970fe28210fa32254eda109afa1b1d7c9e29932e08958dd7fa6b3bc3909529ec9766454786131cb3855ff51adf726f283c5fc5d7430a29fabe4f209e9b0a057b916fa67ab7151c0bd450217bd0a03b676924c5dc688197139a57ae9ed329670f688c8813b22278b636ec2f25fca964cadcb751382aaccdf6fb8fb50b618e67cd88220ff3fd74857386785783f40a539bf49190bec4983f27fa033af354786e73bd0c4e36a786d138c800be72a693623836cf97e95c3c032d850c9ccdab566f674145fc2a209e9b530c1183b7e2e1d238a6f4e8add43f77cc79831f9674756d648264a876489088fc400e58b396e7aa1f7d3a3990d7c1cb6966e240b79e47d8e9757c8adcc8aaa2493c230e8fdc244033d9ea47d9945bf952c3a77944c910fb73fcbc54456395f75660a0ea13c7c65aca4d5f8588f9bbbf529c04bb2a00ab5e52272b6ef73f754a82f69c59c889615fcfe09d59082dc0cd9eaa90709895b2079398fa1f6527ec5b6cf524dcac545512dfd1ac1c586d472394833f2cbd417347c2db3c3e8e0884f7921bc8be2e6c77ed043285b2fa985d733245458eafcb808b894b54d78f94673dffe0bfe3255a849d7d43399637910080752ab2edd765c2a67fa581846c3c8acd62881d135a6f8812e7c981c6d8ba9680fca6791fa90e55091798efcaf7ac384e824cf44b84c7cd0f22837722c121d571997f460018bcf1da044b152608df072489e4946233c2531007cfe152f28c4dbbe583fc73beb89dff00fb8c3001873204d5f8cd2892920c92be3e2ed63711da334c4cb0427b29881290d770d1c35154c6929994bc4e6a37bc3f794a5d8c45c85e77ffd0c2c67dbd70a9b2d197662646fe80f10f7b26e7517bdbbf2c9a93733964c07856cf124396c37e2a71a524505d8ff0466350767636dce3d0e700bb7cc97b9f049a224a16724a601ed4066bfa2708684248292c91a0d5a71bdceaccf9111a75bf5371aa3aeba10dd3a9bf7453abe93212a726feac6d3d4483da49e8693b988f75d02e2643b03be7de055c99869953150ae8182d3ce140a0eee1956de599908ade34d471ae8837a2b2994081af8bde8f46a5eb17de4c625908b2fed443a5e572ad32a2c1ddc08a7d3cdac31889ed2d73d9ad0f0a9545ec3b8b38f71b75cf420ec103b6ec2ff46452f7ec428ce9a758b3bf9f0873eb90095458e4797f34f91e59c350b41515dae5b79f0d2208cbeec7c0cfa12eaac4faf20cfe950898f6df9f148fdff3abcee3c420e4e166f384387597c5409ffa573ad111e0c673e9c99fc6c24028b6b158e1ddde1f9d870aa03c931854c416e492c425bbb02f6a11147522a52a364a1f0859bb9ee477faef85af624ab1beb605e9c1c4c0e27de7cede0f1c099f6f75a3f1e0a59d3c458f7dba1d993d6a24dca60969c47807f86de3b11b08d363440ac1dd96d5920a89c149fc41d53304e60fcf2a0ec6e26502153b0b97d4ca4dc9e6035f3c8bc0b5d1b3853ba339dba46fbcdd73d85af320f58ab5924e5f1370bffae9a0f69cd559f4a581a0449bbf8efa9b5226470d1a0bcda92b825d0ba14c47c501129faae38cbfe5f2c2fd1a9135242415d4a3bbaae458b8d1ea15a2d123920d2185b72e6517cc8087b33f00c55b5e20beea37473790a735c16ef21acd178bcf9518e03a854394cf216ff16c6b7bfd4a609535fe80dfac57a158ebe425973aeae5085aa813a0a941fa45b802ff39b054c8854c8a7dc6e1195ca0873bece9aa56aaf8fd492abd10843fad3dcf9ae9968839cd5f5882c3a9115cdfd6ae1c5e755b5867559099ab6ac20a0dc4daaf49efa22bfabb39aa0820b4afc221082f0da637b08818e119bac3fd7f5bad86d08b303f1a665903b51f28b11ec69779d873db37e7465faba24d6aec8812a371a8f2bc432c6c8d94b735437f66c95a0b668bba15c3187bb45a45f6c8496f7a1cd8b72c8ded49fbbd78b5c99e00805a92c5a492</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      回炉重造中
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://cgtv123.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="杂谈" scheme="https://cgtv123.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="手术室" scheme="https://cgtv123.github.io/tags/%E6%89%8B%E6%9C%AF%E5%AE%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天启？</title>
+    <link href="https://cgtv123.github.io/sign.html"/>
+    <id>https://cgtv123.github.io/sign.html</id>
+    <published>2020-06-22T13:21:19.000Z</published>
+    <updated>2020-08-09T06:58:12.682Z</updated>
+    
+    <content type="html"><![CDATA[<p>   周六下午，阴雨绵绵。我照常来到单向空间。<a id="more"></a>早早占到卡座读小说，真是惬意。过了两点人忽地多起来，邻座是对男女朋友。小伙穿鲜艳的红T恤，浅色休闲中裤，似乎是年龄相仿的青年。一旁的女友就显得瘦小，打扮时髦。姑娘看画报，男友则在批学生的英语作文。不时的嬉闹让我产生了兴趣。仔细一听，原来是这个男老师使劲拿作文中的错误当笑话。女友则不厌其烦地跟着窃笑。一唱一和大约持续了快两小时，我终于抵挡不住，离开了。</p><p>   这个老师姑且没当面嘲笑学生，在这样的公共空间也算细声细语，几乎没影响到他人。而我只觉得缺德。老师不该疼学生吗？如果说那是美德，退一步讲，老师尊重学生是不是基本的道德要求？老师背后拿学生作笑料取悦异性，这是不是轻蔑，甚至一种恶行？</p><p>   师者，传道受业解惑也。如今，我们称一个好老师，通常指他能以易懂的方式传授自己的知识，解答学生的问题。这足够吗？我觉得传道远重于授业和解惑。我们的时代，不缺聪明人，当然也包括能言善道的聪明老师。获取知识优质而多元的渠道更是数不胜数。老师应想起自己本质是摆渡人。他到过远方，载学生在熟悉的海域出航，也是大风大浪时的方向标。他最该向“圣人”努力。老师引导学生认识自己，去该去的地方，便是大善。这自然需要德行。</p><p>  会不会太严苛？我想不必垂头丧气。在台湾求学，我遇到过几位恩师。他们也许不多，但真实存在。我不知道这位男老师能在教学路上走多远，但我确信他很难成为一个好的摆渡人。智识的差距不该化为傲慢的资本。一座灯塔，会改变多少一辈子？</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;   周六下午，阴雨绵绵。我照常来到单向空间。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://cgtv123.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="杂谈" scheme="https://cgtv123.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>耳机这回事</title>
@@ -388,73 +456,6 @@
     
     
       <category term="生活" scheme="https://cgtv123.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>随机漫步的傻瓜</title>
-    <link href="https://cgtv123.github.io/1905random.html"/>
-    <id>https://cgtv123.github.io/1905random.html</id>
-    <published>2019-05-12T05:49:01.000Z</published>
-    <updated>2019-08-10T09:02:11.548Z</updated>
-    
-    <content type="html"><![CDATA[<p>如果说《原则》是瑞像爹妈一样不时在耳边叮嘱大道理，《随机漫步的傻瓜》则是塔勒布像有个性的名师一样，张臂警告。<a id="more"></a>虽然塔勒布写作起来像很多畅销书一样比较琐碎，但观点都挺有趣值得去下海捕捞，多读几遍以体会。</p><blockquote><p>概率对他们而言不过是一种主观且变动不羁的信念的测度。</p><p>不管我们的选择有多复杂、我们多擅长支配运气，随机性总是最后的裁判，我们仅剩的只有尊严</p></blockquote><h3 id="本质和噪音的界限"><a href="#本质和噪音的界限" class="headerlink" title="本质和噪音的界限"></a>本质和噪音的界限</h3><blockquote><p>文人有故意将噪声（noise）和意义（meaning）混为一谈的倾向，也就是把随意构成的作品和刻意营造的信息混淆。</p></blockquote><p>不禁想起村上春树对于小说家特质的想法——只有对事物本质和运行规律反应不那么敏捷，模糊地渐进地表达内涵。这里计量出身的塔勒步给出的答案，再一次回应了效率与感性常常是拉锯的。近几年从看的书或者思考方式转变来讲，我已经越来越追求效率逻辑，接近偏执。有得有失，改天再谈对感性丧失的抱憾。</p><p>同时，塔勒布给出了自己的答案。</p><blockquote><p>有些美学形式能够拨动我们的心弦，不管它们是否起源于随机关联或者只是纯粹的幻觉。人的基因中，有某些东西会被语言的模糊和含混深深感动，那么，为什么要去抨击它呢？</p></blockquote><p>我的考量是一致的。寻求本质，追求效率等看似是个理性皮囊，同样也是艺术。代数几何物理法则都是人类企图用美的规律的思考方式去看待世界和自我，本质上和我们平时讲的通俗艺术没有两样。所以我热爱这一切，只要是认可的浪漫。</p><h4 id="信息含有毒性"><a href="#信息含有毒性" class="headerlink" title="信息含有毒性"></a>信息含有毒性</h4><blockquote><p>密切关注随机性的人反倒会被烧伤，他们由于体验到一连串的痛苦，情绪上精疲力尽</p></blockquote><p>塔勒布举了不同时间尺度下赚钱概率，表达短时间内随机性表现并无大意义、满是噪声将使信息缺乏价值。而信息最大的问题并不是让人分心且常常无用，我理解它的所谓毒性表现在刺激人们多少出于求知本能去解读它甚至拿它做判断和预测。这才是问题所在。</p><h3 id="常态怀疑以内省"><a href="#常态怀疑以内省" class="headerlink" title="常态怀疑以内省"></a>常态怀疑以内省</h3><blockquote><p>常识不过是18岁以前学得的一堆错误看法。此外，谈话中、会议里，尤其是新闻媒体上听起来很有智慧的话，都是值得怀疑的。——爱因斯坦</p></blockquote><p>塔勒布通篇文章极想强调的就是怀疑精神的重要，或者说论证因为随机性更应去怀疑。</p><h4 id="随机路径考量"><a href="#随机路径考量" class="headerlink" title="随机路径考量"></a>随机路径考量</h4><p>传统的情景分析做预测常常是离散的，并非为连续演变的事实。随机样本路径也称为随机序列。他采用是蒙地卡罗发生器的做法，确实是可行方法之一。风控中提到的决策树也存在类似的精神，只是那里的为了案例说明并未仔细讲概率和期望的取得，实际应该可以使用蒙地卡罗来抽样的结果作为参考。</p><h3 id="被误用的进化论"><a href="#被误用的进化论" class="headerlink" title="被误用的进化论"></a>被误用的进化论</h3><blockquote><p>烂交易员的大部分特质，他都具备。而且，在任何一个时间点，赚钱最多的交易员往往是最差的交易员。我把这称做横断面问题（cross-sectional problem）：在市场上的任一时间点，获利最多的交易员，可能是最适合上一个循环的人。</p></blockquote><p>动物并不是必定对目前环境达到最大适应，而且不是时时都适应。我们所见到的优秀者可能会有过度适应的问题，而当他们接触稀有事件越少时隔越久，反而越脆弱成为未来毁灭的种子。最近书看下来，也越来越觉得生存才是第一要义，特别是金融市场这嘈杂的地方，随机性时时能要了命，笑到最后才是赢家。</p><blockquote><p>进化只能适应某一时间序列，而不是所有可能环境的平均值。</p></blockquote><h3 id="概率盲的行为偏差"><a href="#概率盲的行为偏差" class="headerlink" title="概率盲的行为偏差"></a>概率盲的行为偏差</h3><h4 id="科学知识分子的自负"><a href="#科学知识分子的自负" class="headerlink" title="科学知识分子的自负"></a>科学知识分子的自负</h4><blockquote><p>样本数如果增加n倍，我们的知识值增加n的平方根。</p><p>当分布不对称时，没出现期望结果时信心上涨很慢，而当出现一次时信心急剧上升——知识的不对称。</p></blockquote><p>拒绝盲目接受“知识总是随着信息的增殖而增加”的观念—统计推论的基础，是在拒绝研究科学盲目迷信，对各种事物科学化的实证主义的否定。</p><blockquote><p>他们全神专注于冥想中，事物隐藏的声音传到他们耳里，他们听得十分虔诚，而外面街道上的人，什么也没听到。 ——卡瓦菲斯</p></blockquote><p>经济学家常常将模型预测解释不了的部分称作稀有事件的特例，无异于作茧自缚。同样，分析时取得的资料越多越容易被其淹没，掉入陷阱。</p><h4 id="概率反直觉思维"><a href="#概率反直觉思维" class="headerlink" title="概率反直觉思维"></a>概率反直觉思维</h4><blockquote><p>人天生需要一片小天地。面对日常生活中的细节，我们不需要那么理性、那么讲究科学。只有在可能伤害我们、危及我们生存的状况中，才需要那么做。现代生活似乎诱导我们做出完全相反的事情：面对宗教和个人行为等事物时，我们变得极其务实和理智，面对市场和受随机性影响的事物时，却失去理性。</p></blockquote><p>这部分开端论证回到进化轨迹。</p><blockquote><p>我们脱离原始栖息地的速度，远快于基因进化的速度。甚至更糟的是：我们的基因根本没有改变。</p><p>人类不是被设计来理解事物的，我们只是被设计来求生和繁衍后代，但为了求生存，我们必须夸大某些事情的概率，例如可能影响我们存活的事件发生的概率。</p></blockquote><p>由于我们关注或夸大存活事件发生概率：</p><ul><li>首先在使用归纳法的过程中就会错误判断或臆造因果关系；</li><li>我们很难直觉性地去理解概率的非线性取向。</li></ul><h3 id="自认不如的真诚"><a href="#自认不如的真诚" class="headerlink" title="自认不如的真诚"></a>自认不如的真诚</h3><blockquote><p>我的问题在于，我缺乏理性，而且很容易被淹没在随机性中，而蒙受情绪上的折磨。我知道自己需要到公园的座椅上或者咖啡厅中沉思，远离信息。只有把信息从我身边夺走，我才做得到这一点。</p></blockquote><p>塔勒布出身计量，工作于金融市场，却能坦诚地展示自己的弱点，我想这是最重要的求真。我们的潜意识恐怕无时不在关注是否自己是安全的，与随机性背道而驰。我们有坚定的信念，想要掌控命运，结果却总是被随机性愚弄。我们的选择可能永远没法挣脱偏见，但如塔勒布所说，举止优雅，愿尊严永存！</p><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul><li>预测下雨无济于事，建造方舟才能以防万一。</li><li>绝对不要问一个人是不是从斯巴达来的。如果是，他会主动让你知道这么重要的事；如果不是，你就伤到他的心了。</li><li>如果人是有理性的动物，那么理性会引导他们从过去整理出可以预测的形态，并且有所应对。——Robert Lucas</li><li>随机结果的非线性特质有时可作为打破僵局的一种工具</li><li>我认为市场会往哪里走的重要性，远不如我在某种信赖水平下允许的误差率。</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;如果说《原则》是瑞像爹妈一样不时在耳边叮嘱大道理，《随机漫步的傻瓜》则是塔勒布像有个性的名师一样，张臂警告。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="读书" scheme="https://cgtv123.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
-    
-      <category term="随机性" scheme="https://cgtv123.github.io/tags/%E9%9A%8F%E6%9C%BA%E6%80%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>磕磕绊绊</title>
-    <link href="https://cgtv123.github.io/pain.html"/>
-    <id>https://cgtv123.github.io/pain.html</id>
-    <published>2019-04-28T06:20:38.000Z</published>
-    <updated>2019-11-13T15:21:38.293Z</updated>
-    
-    <content type="html"><![CDATA[<p>最近真是糟透了。<a id="more"></a></p><p>如之前的计划开始读原则，Ray和Howard两本书差异竟如此之大——《掌握市场周期》我鼓起劲读了四五次，翻完整本的一半，终于连同一半的笔记一起坑了。Howard这本新书确实牢牢围绕着周期的探讨，但是一直给出左右逢源的评断。几次考虑他的写作习惯可能是把观念内藏在行文中，然而坚持下来并非那么逻辑清晰和价值明确。我觉得他确是有所保留。另一方面，Ray的原则像他的桥水一样，开堂布公，将生涯和想法侃侃而谈，读起来体验好不少。途中有过想法，内容整理如此透明有机，不少慷慨的成功者都有这种倾囊相授式的教诲，真不怕别人学吗很快有了答案——人生复制不来。近段时间越来越能体会到大道理之所以成为大道理，会教育会流传，是因为真的有价值。而年纪小常阅历少无法真正领会其中的奥妙。成功者的性格支撑原则，原则稳定发展遭遇下的行事，那就是一定程度地“掌握命运”。信息传播加快我们能更快更多接触到一些“成功的秘诀”，但不是每个人都会有一样的经历。经历带来最深的体悟，最后发现还是自古流传的诗歌和名句刻下的哲思。</p><p>期中考陆陆续续地开始与结束，情绪也随之非常的不稳定。不管是考前考时还是考后，我一直处于不安与低落。Ray提到痛苦是一种警示，是成长的机会。除去之前提到的懦弱，情绪控制是我很大的软肋，特别在抗压上。我发现自己的情绪很不稳定，而且近年来越来越难以控制。主要体现在：遇到压力和逆境的信心不足导致恐惧和不安，遇到不如意的怪事引起愤怒和暴躁，遇到顺风顺水不知不觉得意过头。看起来好像在细数一般人都有的情况，但当这些异常频繁出现，并没有好好处理的话，情绪波动会被越放越大，影响不言而喻。Ray讲到潜意识的主导主宰了“命运”，也有几分道理。那么到底如何增强控管呢？</p><ul><li>恐惧和不安来自未知和懦弱。用强大去驱散。写出清楚思路，无果则与别人交流用新知解决。平时积累没有虚度光阴变强的实际感觉-——阅读写作吸收，锻炼增强体魄，多交流感情。</li><li>不如意实质是预期的偏差。那就要调整合适的预期，包括自己的位置能力，对走势情况的拿捏。这次事件也再次证明了一点，过度自信无处不在，一定要警惕。得意忘形也因此而生。不管是内心膨胀还是已经表露在外得意忘形，都很危险。要时刻低估自己本身的判断，加深对风险的警惕和对不确定的敬畏。</li></ul><p>舒了一口气。哪怕是情绪这种捉摸不透的东西，整理一下也并没那么可怕。希望以后能更快地调整从失落进入好状态，骄傲走向谦逊。让痛苦也成为培育的养料。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;最近真是糟透了。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://cgtv123.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="自我" scheme="https://cgtv123.github.io/tags/%E8%87%AA%E6%88%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>扎根前行</title>
-    <link href="https://cgtv123.github.io/apr19.html"/>
-    <id>https://cgtv123.github.io/apr19.html</id>
-    <published>2019-04-20T16:24:27.000Z</published>
-    <updated>2019-11-13T15:22:05.756Z</updated>
-    
-    <content type="html"><![CDATA[<p>新竹4月 ，梅雨季说来就来。</p><p>想回去见恩师很久了。无奈她比较忙，加之我混得一般的胆怯，终于发出了邀约。来这已经将近第五个年头，挣扎了很久未来的方向，或许我心里早已有了答案，无论如何需要一个实锤。<a id="more"></a></p><p>最近两年才发现，虽然不依存正确答案，没有指路人心底里终归不安。这份深藏的懦弱，在专业如今大跃进式的新兴浪潮中迷惘。前三个月我思索了很久以后想成为什么样的家伙，在条条大路通罗马我懂越多越吃香的美好幻想下，精力难以负担。我的懦弱最常体现在取舍上，贪婪地吸收与追寻太多，样样放不开手，上学期还有了莫名其妙的职业罪恶感，弱小的心！如今又幸运地得救了。珍惜人生中的贵人，良好的人际交往带来快乐。</p><p>找到立根之基真是无比困难又幸福的事，人们常讲初心初心。人不一定要回到初心，可能他真的改变了，而这也可能是一瞬间的事。若是真要挽起袖子下海往回去怕是也困难的很，潮起潮落心境都不一样。让人能够安然坚定的梦，仔细一想并不容易。梦太小，太世俗，太稀疏平常，总会被嫌这嫌那。今早倒是发现，从考证这个例子出发有了新的看法。为了收入之流去考些自己不喜欢又困难的证，我一直无法认同。当拨开大大小小的梦，<strong>本身回归到自身诉求</strong>的时候，我想起了这个金字塔。</p><p><img src="https://i.imgur.com/UfAqpsE.png" alt=""></p><p>像考证，褪去带来的金钱收益，我希望考喜欢的证能得到通往更高领域的门票和背后的无穷宝藏。同时我所渴求的核心价值是成长以及自我实现——能力的证明。正因为此，我才能感到自己越来越能够心无旁骛、矢志不渝地走下去。可能我这个人就是别扭到只有拼尽全力说服自己才能全身心地投入。<strong>性格是坏事还是好事，我想该看如何利用。</strong>4月实在很匆忙，身体切实感觉同时前行的辛苦，但迈出的每一步都能体会到踏实。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;新竹4月 ，梅雨季说来就来。&lt;/p&gt;
-&lt;p&gt;想回去见恩师很久了。无奈她比较忙，加之我混得一般的胆怯，终于发出了邀约。来这已经将近第五个年头，挣扎了很久未来的方向，或许我心里早已有了答案，无论如何需要一个实锤。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔" scheme="https://cgtv123.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-      <category term="自我" scheme="https://cgtv123.github.io/tags/%E8%87%AA%E6%88%91/"/>
     
   </entry>
   
